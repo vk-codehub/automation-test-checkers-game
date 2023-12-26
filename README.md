@@ -1,6 +1,3 @@
-## This is an open-source Java-Selenium library to perform actions on https://www.gamesforthebrain.com/game/checkers/.
-
-# Documentation
 
 # Design/Implementation details for Checkers Game UI
 
